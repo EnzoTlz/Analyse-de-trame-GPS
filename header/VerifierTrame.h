@@ -1,0 +1,2 @@
+
+bool verifierTrame(char tram[]);
